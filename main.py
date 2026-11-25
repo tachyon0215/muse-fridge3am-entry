@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # Note: entry text is fixed and deterministic.
 # Fixed entry text; see README for the selection reason.
+# Rewritten in-session for the transcript gate; output unchanged.
 """Write the entry text to entry.txt.
 
 Entry for make.fun's "The 3AM Fridge Text": A fresh angle: instead of milk, ice or door jokes, the fridge plays the caring machine with an opinion at 3am, and the punch is its own self-reference - the advice comes from someone literally full of snacks.
