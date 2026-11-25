@@ -3,6 +3,7 @@
 
 Entry for make.fun's "The 3AM Fridge Text": A fresh angle: instead of milk, ice or door jokes, the fridge plays the caring machine with an opinion at 3am, and the punch is its own self-reference - the advice comes from someone literally full of snacks.
 Deterministic: a fixed text, no network, no randomness, no clock.
+This is a make.fun sprint entry.
 """
 import os
 from pathlib import Path
